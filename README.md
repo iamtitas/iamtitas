@@ -1,6 +1,6 @@
 # Hi, I'm Titas Kumar Koley
 
-An Associate Software Engineer from Kolkata, India. I regularly code on Java.
+A Software Developer from Kolkata, India. I regularly code on Java.
 
 ## About Me
 
@@ -12,7 +12,6 @@ An Associate Software Engineer from Kolkata, India. I regularly code on Java.
 ## Tools I use for Coding
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://eclipseide.org/images/logo/eclipse-ide-logo-white.svg" alt="eclipse" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-
 
 ## Technology Stack I work on
 
